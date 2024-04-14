@@ -2011,37 +2011,37 @@ html {
   outline: .125em solid #065986
 }
 .registration__field-design:checked + .registration__design-label::before {
-  background: url(../../img/contact/check_box.svg) 0 0/cover no-repeat
+  background: url(../img/contact/check_box.svg) 0 0/cover no-repeat
 }
 .registration__field-creat:focus-visible + .registration__creat-label::before {
   outline: .125em solid #065986
 }
 .registration__field-creat:checked + .registration__creat-label::before {
-  background: url(../../img/contact/check_box.svg) 0 0/cover no-repeat
+  background: url(../img/contact/check_box.svg) 0 0/cover no-repeat
 }
 .registration__field-ux:focus-visible + .registration__ux-label::before {
   outline: .125em solid #065986
 }
 .registration__field-ux:checked + .registration__ux-label::before {
-  background: url(../../img/contact/check_box.svg) 0 0/cover no-repeat
+  background: url(../img/contact/check_box.svg) 0 0/cover no-repeat
 }
 .registration__field-strategy:focus-visible + .registration__strategy-label::before {
   outline: .125em solid #065986
 }
 .registration__field-strategy:checked + .registration__strategy-label::before {
-  background: url(../../img/contact/check_box.svg) 0 0/cover no-repeat
+  background: url(../img/contact/check_box.svg) 0 0/cover no-repeat
 }
 .registration__field-research:focus-visible + .registration__research-label::before {
   outline: .125em solid #065986
 }
 .registration__field-research:checked + .registration__research-label::before {
-  background: url(../../img/contact/check_box.svg) 0 0/cover no-repeat
+  background: url(../img/contact/check_box.svg) 0 0/cover no-repeat
 }
 .registration__field-other:focus-visible + .registration__other-label::before {
   outline: .125em solid #065986
 }
 .registration__field-other:checked + .registration__other-label::before {
-  background: url(../../img/contact/check_box.svg) 0 0/cover no-repeat
+  background: url(../img/contact/check_box.svg) 0 0/cover no-repeat
 }
 .registration__btn-form {
   text-align: center;
