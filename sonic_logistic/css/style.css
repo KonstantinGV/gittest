@@ -1935,7 +1935,7 @@ html {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: clamp(0,-7.521rem + 15.02vw,6rem) 0 clamp(3.438rem,2.705rem + 3.66vw,6rem) 0
+  padding: clamp(0,-7.521rem + 15.02vw,6rem) 0 0 0
 }
 .help__info-content {
   flex-grow: 1;
@@ -2676,7 +2676,8 @@ html {
     padding-bottom: 1.25em
   }
   .contact__qoute {
-    max-width: 77.875em
+    max-width: 77.875em;
+    padding-bottom: 3.4375em
   }
   .help__box-text {
     text-align: center
@@ -3269,9 +3270,7 @@ html {
     cursor: pointer
   }
   .items__pic:hover {
-    color: #0ba5ec;
-    -webkit-transform: scale(1.02);
-    transform: scale(1.02)
+    color: #0ba5ec
   }
   .button-group__btn-jump--learnmore {
     cursor: pointer
