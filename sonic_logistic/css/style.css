@@ -1152,9 +1152,7 @@ html {
   font-size: clamp(.938rem,.916rem + .11vw,1rem)
 }
 .items__pic {
-  transition: all .3s ease-in;
-  -webkit-transform: scale(1);
-  transform: scale(1)
+  transition: all .3s ease-in
 }
 .partner--setup:not(:last-child) {
   margin-bottom: clamp(3.438rem,2.705rem + 3.66vw,6rem)
@@ -2024,9 +2022,7 @@ html {
   font-size: 1.5rem
 }
 .socials__pic {
-  transition: all .3s ease-in;
-  -webkit-transform: scale(1);
-  transform: scale(1)
+  transition: all .3s ease-in
 }
 .quote__text-inner:not(:last-child) {
   margin-bottom: clamp(1.5rem,1.071rem + 2.14vw,3rem)
