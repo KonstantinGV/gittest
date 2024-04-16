@@ -3306,9 +3306,7 @@ html {
     cursor: pointer
   }
   .socials__pic:hover {
-    color: #0ba5ec;
-    -webkit-transform: scale(1.02);
-    transform: scale(1.02)
+    color: #0ba5ec
   }
   .registration__btn-form {
     cursor: pointer
