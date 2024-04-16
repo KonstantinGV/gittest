@@ -3246,7 +3246,7 @@ html {
     color: #fff
   }
   .menu__btn-access--login-in:hover::before {
-    height: 370%
+    height: 390%
   }
   .menu__btn-access--get-quote {
     cursor: pointer
